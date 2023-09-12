@@ -1,2 +1,2 @@
 # daily_doses_python
-Daily doses of Python.
+Doses diárias de Python com documentação em Português.
